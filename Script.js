@@ -18,7 +18,7 @@ function encriptar(){
     }
 }
 
-// https://github.com/LionalEstevez/lionalestevez.github.io.git
+// https://github.com/JoseLeonelEstevez/JoseLeonelEstevez.github.io
 
 function desencriptar(){
     ocultarAdelante();
